@@ -17,6 +17,8 @@ jobs:
     strategy:
       matrix:
         include:
+          - config: amlogic-s905x-b860h
+            armbian_ref: v26.5.1 # Stable Tag
           - config: ebyte-ecb41-pge
             armbian_ref: v26.5.1 # Stable Tag
           - config: forlinx-ok3506-s12

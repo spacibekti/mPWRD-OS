@@ -22,6 +22,7 @@
 
 | Chipset  | Board                          | Status    | `meshtasticd` status |
 | -------- | ------------------------------ | --------- | -------------------- |
+| S905X    | 📺 Amlogic S905X (B860H)       | Supported | ✅ `beta`            |
 | BCM2711  | 🍓 [Raspberry Pi (64-bit)][b1] | Supported | ✅ `beta`            |
 | RK3506G  | 🛜 [EByte ECB41-PGE][b2]       | Supported | 🧪 `alpha`           |
 | RK3506G  | 🦊 [Luckfox Lyra Plus][b3]     | Supported | 🧪 `alpha`           |
